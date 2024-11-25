@@ -1,4 +1,4 @@
-use gl::{types::*, BindVertexArray, COLOR_BUFFER_BIT, FRAGMENT_SHADER, VERTEX_SHADER};
+use gl::{types::*, COLOR_BUFFER_BIT, FRAGMENT_SHADER, VERTEX_SHADER};
 use sdl2::video::GLProfile;
 mod shaders;
 
